@@ -24,11 +24,11 @@ Esto va a crear contenedores donde se encuentren las imagenes que se especificar
 
 ![imagen2.1](Imagenes/punto2_1.png)
 
+### Comprobamos la ejecución en el navegador
+
 Luego de tener ejecutado los contenedores, vamos a ir al navegador y poner el host con el puerto que hemos especificado en el docker compose  http://10.0.9.98:4080  y si todo ah esatdo correcto se visualiza la pagina del Prestahop
 
 ![imagen3](Imagenes/punto3.png)
-
-### Comprobamos la ejecución en el navegador
 
 Para la instalacion del Prestashop vamos a seguir los pasos que te den en la pagina.
 
